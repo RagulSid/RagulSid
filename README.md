@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragulsid&label=Profile%20views&color=0e75b6&style=flat" alt="ragulsid" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
-<p align="left"> <a href="https://twitter.com/sid_ragul" target="blank"><img src="https://img.shields.io/twitter/follow/sid_ragul?logo=twitter&style=for-the-badge" alt="sid_ragul" /></a> </p>
 
 - 🔭 I’m currently working on **pen testing**
 - 🌱 I’m currently learning **SQL**
