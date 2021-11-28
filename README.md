@@ -11,7 +11,7 @@
 - 💬 Ask me about **Bug hunting, python, front-end ideas**
 - 👨‍💻 Portfolio **https://itsmeragul.blogspot.com**
 - 📫 How to reach me **http://bit.ly/RagulSid**
-- ⚡ fun fact **Knows to cook ,delectable person, football person⚽**
+- ⚡ fun fact **Knows to cook ,delectable, football person⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
