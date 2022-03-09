@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
 
 - 🔭 I’m currently working on **pen testing**
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **CORE JAVA**
 - 👯 I’m looking to collaborate on **any front-end projects**
-- 💬 Ask me about **Bug hunting, python, front-end ideas**
+- 💬 Ask me about **Bug hunting,DevOps**
 - 👨‍💻 Portfolio **https://itsmeragul.blogspot.com**
 - 📫 How to reach me **http://bit.ly/RagulSid**
 - ⚡ fun fact **Knows to cook ,delectable, football person⚽**
