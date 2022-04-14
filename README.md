@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **pen testing**
 - 🌱 I’m currently learning **Full stack dev (React + Elastic Stack)**
 - 👯 I’m looking to collaborate on **any front-end projects**
-- 💬 Ask me about **Bug hunting,DevOps**
+- 💬 Ask me about **DevOps,Bug hunting**
 - 👨‍💻 Portfolio **https://itsmeragul.blogspot.com**
 - 📫 How to reach me **http://bit.ly/RagulSid**
 - ⚡ fun fact **Knows to cook ,delectable, football person⚽**
