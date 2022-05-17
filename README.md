@@ -5,10 +5,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
 
-- 🔭 I’m currently working on **pen testing**
-- 🌱 I’m currently learning **Full stack dev (React + Elastic Stack)**
+- 🔭 I’m currently working on **Java and elastic**
+- 🌱 I’m currently learning **React and Elasticsearch**
 - 👯 I’m looking to collaborate on **any front-end projects**
-- 💬 Ask me about **DevOps,Bug hunting**
+- 💬 Ask me about **DevOps,cloud certifications**
 - 👨‍💻 Portfolio **https://itsmeragul.blogspot.com**
 - 📫 How to reach me **http://bit.ly/RagulSid**
 - ⚡ fun fact **Knows to cook ,delectable, football person⚽**
