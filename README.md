@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/opening.gif">
 
-- 🔭 I’m currently working on **Java and elastic**
-- 🌱 I’m currently learning **React and Elasticsearch**
-- 👯 I’m looking to collaborate on **any front-end projects**
+- 🔭 I’m currently working on **Java**
+- 🌱 I’m currently learning **Angular**
+- 👯 I’m looking to collaborate on **any full-stack projects**
 - 💬 Ask me about **DevOps,cloud certifications**
 - 👨‍💻 Portfolio **https://itsmeragul.blogspot.com**
 - 📫 How to reach me **http://bit.ly/RagulSid**
