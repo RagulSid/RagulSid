@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ragul! <img src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif" width="50"></h2>
-<h3 align="center"> I'm currently doing my engineering degree at National Engineering College. Basically interested in cybersecurity and network safety management . I know some intermediate level in web development web app security ,self taught programmer ,learning.</h3>
+<h3 align="center"> I'm currently doing my engineering degree at National Engineering College. Basically a self taught programmer, still learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragulsid&label=Profile%20views&color=0e75b6&style=flat" alt="ragulsid" /> </p>
 
