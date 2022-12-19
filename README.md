@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sid_ragul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sid_ragul" height="30" width="40" /></a>
+<a href="https://twitter.com/ragulsiddh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sid_ragul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ragulsid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ragulsid" height="30" width="40" /></a>
-<a href="https://instagram.com/ragul_.sid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ragul_.sid" height="30" width="40" /></a>
+<a href="https://instagram.com/ragulsidd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ragul_.sid" height="30" width="40" /></a>
 <a href="https://medium.com/@ragulsiddharth1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ragulsiddharth1" height="30" width="40" /></a>
 </p>
 
