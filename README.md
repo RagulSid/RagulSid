@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Full-stack projects**
 - 💬 Ask me about **DevOps,cloud certifications**
-- 👨‍💻 Links:  **[https://linktr.ee/ragulsid](https://ragulsid.vercel.app/)**
+- 👨‍💻 Links:  **[https://ragulsid.vercel.app/](https://ragulsid.vercel.app/)**
 - ⚡ fun fact **Knows to cook, delectable, football person⚽**
 
 <h3 align="left">Connect with me:</h3>
